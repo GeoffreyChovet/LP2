@@ -1,0 +1,12 @@
+/* Custom design with class */
+
+.btn-blue {
+	background-color: #1DE9B6;
+	color: #FFFFFF;
+	padding: 15px 20px;
+}
+
+.btn-blue:hover {
+	background-color: #5F6372;
+	color: #FFFFFF;
+}

@@ -1,0 +1,52 @@
+/* Importing Google Fonts */
+@import url('https://fonts.googleapis.com/css?family=Exo+2|Quicksand');
+
+/* Importing all components files */
+
+@import url("components/banner.css");
+@import url("components/button.css");
+@import url("components/cards.css");
+@import url("components/container.css");
+
+/* Colors and fonts */
+
+body {
+	background:#F7F9FC;
+	color:#5F6372;
+	font-family: 'Exo 2', sans-serif;
+	font-size: 18px;
+	font-weight: 300;
+	text-align: center;
+	margin: 0;
+}
+
+h1, h2, h3 {
+	font-family: 'Quicksand', sans-serif;
+}
+
+h1 {
+	color: #1A2035;
+	font-size: 50px;
+	font-weight: 900;
+}
+
+h2 {
+	color: #5F6372;
+	font-size: 30px;
+	font-weight: 600;
+}
+
+a {
+	font-family: 'Quicksand', serif;
+	text-decoration: none;
+	color: #6B72E1;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+a:hover {
+	color: #000000;
+}
+
+font-family: 'Exo 2', sans-serif;
+font-family: 'Quicksand', sans-serif;

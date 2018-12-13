@@ -1,0 +1,33 @@
+/* Custom design with class */
+
+@media (max-width: 960px) {
+	.container {
+		width: 700px;
+	}
+}
+
+@media (max-width: 720px) {
+	.container {
+		width: 500px;
+	}
+}
+
+@media (max-width: 540px) {
+	.banner{
+		padding: 50px 10px;
+	}
+	.container {
+		width: 300px;
+	}
+	.card{
+	 	flex-grow: 1;
+	}
+	
+
+}
+
+.container {
+	width: 700px;
+	margin: 40px auto;
+	max-width: 100%;
+}
